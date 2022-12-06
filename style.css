@@ -1,0 +1,112 @@
+.navbar {
+    overflow: scroll ;
+}
+
+#style-menu{
+    color: white;
+}
+
+#style-container{
+    text-align: center;
+    margin: 5px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.col > h1{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.col > h2{
+    font-size: 18px;
+}
+
+.col > p{
+    font-size: 15px;
+}
+
+footer{
+    background-color: black;
+    height: 50px;
+    margin-top: 25px;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;    
+  }
+
+  .no-gutters > col {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+/* .col > img {
+    width: 350px;
+    height: 350px;
+} */
+
+#logo{
+    width: 200px;
+    height: 180px;
+}
+
+.img-footer{
+    margin-bottom: 15px;
+}
+
+footer > .container > .row > h3 {
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+}
+
+.bg-image{
+    height: 500px;
+    opacity: 80%;
+}
+
+.bg-image > p {
+    color: black;
+    margin: auto;
+}
+
+.event{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    background-color: white ;
+    font-style: italic;
+}
+
+.box-event{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.box{
+    margin-top: 35px;
+    height: 250px;
+    width: 350px; 
+    margin: 25px;
+}
+
+.box-text {
+    text-align: center;
+    font-family:  Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+p{
+    font-family:  Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+
+}
+
+.col-4 > img {
+    width: 450px;
+    height: 350px;
+}
